@@ -1,0 +1,24 @@
+{
+  "modules":{
+    "big_title": "联系我们",
+    "company_logo": "/images/contact-us/contact-us-logo.png",
+    "company_name": "上海首格网络科技有限公司",
+    "company_website": "http://www.firstgrid.com",
+    "company_number": "0571-93842234",
+    "company_address_logo": "/images/contact-us/address.png",
+    "headquarters": "上海总部",
+    "headquarters_address_number": "上海市杨浦区殷行路1280号",
+    "headquarters_address_office": "嘉誉都汇广场01栋506室",
+    "department_name": "杭州研发中心",
+    "company_address_number": "杭州市西湖区文一路115号",
+    "company_address_office": "实验楼419室",
+    "email_logo": "/images/contact-us/email.png",
+    "email_title": "邮件地址",
+    "email_address": "Dsis.firstgrid.com",
+    "phone_logo": "/images/contact-us/phone.png",
+    "headquarters_title": "上海总部",
+    "headquarters_phone": "021-82343047",
+    "company_title": "杭州总部",
+    "company_phone": "0571-93842234"
+  }
+}

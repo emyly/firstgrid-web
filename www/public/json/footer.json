@@ -1,0 +1,31 @@
+{
+  "modules":{
+    "footer_logo_img": "/images/index/firsr-grid-transparent.png",
+    "promotion_links":[
+          {
+            "url":"#",
+            "icon":"/images/index/weibo.png",
+            "type":"microblog"
+          },
+          {
+            "url":"#",
+            "icon":"/images/index/qq.png",
+            "type":""
+          },
+          {
+            "url":"#",
+            "icon":"/images/index/weixin.png",
+            "type":""
+          }
+    ],
+    "two_dimension_icon": "/images/index/two-dimension.png",
+    "navigation_title": "导航",
+    "contact_title": "联系我们",
+    "company_name": "上海首格网络科技有限公司",
+    "department_name": "杭州研发中心",
+    "company_address": "杭州市文一路115号实验楼419号",
+    "company_headquarters": "上海总部",
+    "headquarters_address": "上海市杨浦区殷行路1280号嘉誉都汇广场O1栋506室",
+    "license": "沪ICP备16018179号-1"
+  }
+}

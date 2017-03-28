@@ -1,0 +1,52 @@
+{
+  "modules":{
+    "range_cont_links": [
+        {
+          "active_class": "pt-page-current",
+          "id": "range_app",
+          "big_icon": "/images/service/0001.jpg",
+          "small_icon": "/images/service/service-medical.png",
+          "title": "医疗云平台",
+          "span_class": "service-medical",
+          "describe": "开创积累了16年的IOS客户端经验以及强大的技术实力，我们既可以为客户提供易懂易实现的标准型网站，也可以为客户提供量身定做的高端IOS客户端解决方案，我们为客户提供的服务包括前期的沟通策划、帮助客户分析规划，IOS客户端期间的风格设计定位、页面排版制作、前端技术应用、技术实施构架、服务器端程序开发、后期网站的运营维护支持、网站安全故障排除等所有与IOS客户端实施相关的关联服务。"
+        },
+        {
+          "active_class": "",
+          "id": "range_web",
+          "big_icon": "/images/service/00002.jpg",
+          "small_icon": "/images/service/service-mq.png",
+          "title": "消息提醒功能",
+          "span_class": "message-remind",
+          "describe": "iOS是由苹果公司开发的移动操作系统。苹果公司最早于2007年1月9日的Macworld大会上公布这个系统，最初是设计给iPhone使用的，后来陆续套用到iPod touch、iPad以及Apple TV等产品上。iOS与苹果的Mac OS X操作系统一样，属于类Unix的商业操作系统。原本这个系统名为iPhone OS，因为iPad，iPhone，iPod touch都使用iPhone OS，所以2010WWDC大会上宣布改名为iOS（iOS为美国Cisco公司网络设备操作系统注册商标，苹果改名已获得Cisco公司授权）。"
+        },
+        {
+          "active_class": "",
+          "id": "range_system",
+          "big_icon": "/images/service/000003.jpg",
+          "small_icon": "/images/service/service3.png",
+          "title": "PC端",
+          "span_class": "pc-introduce",
+          "describe": "iOS是由苹果公司开发的移动操作系统。苹果公司最早于2007年1月9日的Macworld大会上公布这个系统，最初是设计给iPhone使用的，后来陆续套用到iPod touch、iPad以及Apple TV等产品上。iOS与苹果的Mac OS X操作系统一样，属于类Unix的商业操作系统。原本这个系统名为iPhone OS，因为iPad，iPhone，iPod touch都使用iPhone OS，所以2010WWDC大会上宣布改名为iOS（iOS为美国Cisco公司网络设备操作系统注册商标，苹果改名已获得Cisco公司授权）。"
+        },
+        {
+          "active_class": "",
+          "id": "range_network",
+          "big_icon": "/images/service/00004.jpg",
+          "small_icon": "/images/service/iconfont-apple.png",
+          "title": "IOS客户端",
+          "span_class": "ios-client",
+          "describe": "iOS是由苹果公司开发的移动操作系统。苹果公司最早于2007年1月9日的Macworld大会上公布这个系统，最初是设计给iPhone使用的，后来陆续套用到iPod touch、iPad以及Apple TV等产品上。iOS与苹果的Mac OS X操作系统一样，属于类Unix的商业操作系统。原本这个系统名为iPhone OS，因为iPad，iPhone，iPod touch都使用iPhone OS，所以2010WWDC大会上宣布改名为iOS（iOS为美国Cisco公司网络设备操作系统注册商标，苹果改名已获得Cisco公司授权）。"
+        },
+        {
+          "active_class": "",
+          "id": "range_ui",
+          "big_icon": "/images/service/000005.jpg",
+          "small_icon": "/images/service/service-android.png",
+          "title": "Android",
+          "span_class": "android-introduce",
+          "describe": "iOS是由苹果公司开发的移动操作系统。苹果公司最早于2007年1月9日的Macworld大会上公布这个系统，最初是设计给iPhone使用的，后来陆续套用到iPod touch、iPad以及Apple TV等产品上。iOS与苹果的Mac OS X操作系统一样，属于类Unix的商业操作系统。原本这个系统名为iPhone OS，因为iPad，iPhone，iPod touch都使用iPhone OS，所以2010WWDC大会上宣布改名为iOS（iOS为美国Cisco公司网络设备操作系统注册商标，苹果改名已获得Cisco公司授权）。"
+        }
+    ],
+    "footer_license":"沪ICP备16018179号-1"
+  }
+}

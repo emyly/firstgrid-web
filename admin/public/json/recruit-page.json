@@ -1,0 +1,267 @@
+{
+  "modules":{
+    "big_title": "招贤纳士",
+    "current_index":4,
+    "recruit_links": [
+      {
+        "menu_title": "UI设计师",
+        "show_img": "/images/about/about-us.jpg",
+        "title": "UI设计师岗位要求",
+        "introduce_title": "职位描述:",
+        "introduce": "UI上海XXXX科技是一群XXXX背景的小伙伴们联合创立的XXXXX公司，当前已获得国内知名天使和***互联网公司的投资。我们的目标是让生活中最常见的场景之一：开门，变得前所未有的容易和简单——让门锁/门禁感知可穿戴式设备/智能手机等，从而实现自动认证和开门。一个年轻、富有活力的团体，正期待着更有激情的你！",
+        "responsibilities_title": "岗位职责:",
+        "responsibilities_list":[
+          {
+            "content": "UI负责android平台下app应用软件开发；"
+          },
+          {
+            "content": "UI根据需求开发相应的手机应用软件，并对交付应用质量负责；"
+          },
+          {
+            "content": "UI系统设计及同后台系统交互接口设计 负责开发文档的编写。"
+          }
+        ],
+        "requirements_title": "任职要求:",
+        "requirements_list": [
+          {
+            "content": "UI熟练掌握java语言，熟悉android系统架构,熟悉网络编程；"
+          },
+          {
+            "content": "UI智能手机爱好者和使用者，爱玩手机；"
+          },
+          {
+            "content": "UI对终端产品的ui/ue有独到的见解与认识，追求良好的用户体验；"
+          },
+          {
+            "content": "UI对软件产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；"
+          },
+          {
+            "content": "UI至少参与或者独立进行过一次完整的基于网络的应用开发。"
+          }
+        ]
+      },
+      {
+        "menu_title": "Ios开发工程师",
+        "show_img": "/images/recruit/image_zhaopin.jpg",
+        "title": "Ios开发工程师岗位要求",
+        "introduce_title": "职位描述:",
+        "introduce": "Ios上海XXXX科技是一群XXXX背景的小伙伴们联合创立的XXXXX公司，当前已获得国内知名天使和***互联网公司的投资。我们的目标是让生活中最常见的场景之一：开门，变得前所未有的容易和简单——让门锁/门禁感知可穿戴式设备/智能手机等，从而实现自动认证和开门。一个年轻、富有活力的团体，正期待着更有激情的你！",
+        "responsibilities_title": "岗位职责:",
+        "responsibilities_list":[
+          {
+            "content": "Ios负责android平台下app应用软件开发；"
+          },
+          {
+            "content": "Ios根据需求开发相应的手机应用软件，并对交付应用质量负责；"
+          },
+          {
+            "content": "Ios系统设计及同后台系统交互接口设计 负责开发文档的编写。"
+          }
+        ],
+        "requirements_title": "任职要求:",
+        "requirements_list": [
+          {
+            "content": "Ios熟练掌握java语言，熟悉android系统架构,熟悉网络编程；"
+          },
+          {
+            "content": "Ios智能手机爱好者和使用者，爱玩手机；"
+          },
+          {
+            "content": "Ios对终端产品的ui/ue有独到的见解与认识，追求良好的用户体验；"
+          },
+          {
+            "content": "Ios对软件产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；"
+          },
+          {
+            "content": "Ios至少参与或者独立进行过一次完整的基于网络的应用开发。"
+          }
+        ]
+      },
+      {
+        "menu_title": "前端开发工程师",
+        "show_img": "/images/about/about-us.jpg",
+        "title": "前端开发工程师岗位要求",
+        "introduce_title": "职位描述:",
+        "introduce": "前端上海XXXX科技是一群XXXX背景的小伙伴们联合创立的XXXXX公司，当前已获得国内知名天使和***互联网公司的投资。我们的目标是让生活中最常见的场景之一：开门，变得前所未有的容易和简单——让门锁/门禁感知可穿戴式设备/智能手机等，从而实现自动认证和开门。一个年轻、富有活力的团体，正期待着更有激情的你！",
+        "responsibilities_title": "岗位职责:",
+        "responsibilities_list":[
+          {
+            "content": "前端负责android平台下app应用软件开发；"
+          },
+          {
+            "content": "前端根据需求开发相应的手机应用软件，并对交付应用质量负责；"
+          },
+          {
+            "content": "前端系统设计及同后台系统交互接口设计 负责开发文档的编写。"
+          }
+        ],
+        "requirements_title": "任职要求:",
+        "requirements_list": [
+          {
+            "content": "前端熟练掌握java语言，熟悉android系统架构,熟悉网络编程；"
+          },
+          {
+            "content": "前端智能手机爱好者和使用者，爱玩手机；"
+          },
+          {
+            "content": "前端对终端产品的ui/ue有独到的见解与认识，追求良好的用户体验；"
+          },
+          {
+            "content": "前端对软件产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；"
+          },
+          {
+            "content": "前端至少参与或者独立进行过一次完整的基于网络的应用开发。"
+          }
+        ]
+      },
+      {
+        "menu_title": "交互设计师",
+        "show_img": "/images/recruit/image_zhaopin.jpg",
+        "title": "交互设计师岗位要求",
+        "introduce_title": "职位描述:",
+        "introduce": "交互上海XXXX科技是一群XXXX背景的小伙伴们联合创立的XXXXX公司，当前已获得国内知名天使和***互联网公司的投资。我们的目标是让生活中最常见的场景之一：开门，变得前所未有的容易和简单——让门锁/门禁感知可穿戴式设备/智能手机等，从而实现自动认证和开门。一个年轻、富有活力的团体，正期待着更有激情的你！",
+        "responsibilities_title": "岗位职责:",
+        "responsibilities_list":[
+          {
+            "content": "交互负责android平台下app应用软件开发；"
+          },
+          {
+            "content": "交互根据需求开发相应的手机应用软件，并对交付应用质量负责；"
+          },
+          {
+            "content": "交互系统设计及同后台系统交互接口设计 负责开发文档的编写。"
+          }
+        ],
+        "requirements_title": "任职要求:",
+        "requirements_list": [
+          {
+            "content": "交互熟练掌握java语言，熟悉android系统架构,熟悉网络编程；"
+          },
+          {
+            "content": "交互智能手机爱好者和使用者，爱玩手机；"
+          },
+          {
+            "content": "交互对终端产品的ui/ue有独到的见解与认识，追求良好的用户体验；"
+          },
+          {
+            "content": "交互对软件产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；"
+          },
+          {
+            "content": "交互至少参与或者独立进行过一次完整的基于网络的应用开发。"
+          }
+        ]
+      },
+      {
+        "menu_title": "Android开发工程师",
+        "show_img": "/images/about/about-us.jpg",
+        "title": "Android开发工程师岗位要求",
+        "introduce_title": "职位描述:",
+        "introduce": "Android上海XXXX科技是一群XXXX背景的小伙伴们联合创立的XXXXX公司，当前已获得国内知名天使和***互联网公司的投资。我们的目标是让生活中最常见的场景之一：开门，变得前所未有的容易和简单——让门锁/门禁感知可穿戴式设备/智能手机等，从而实现自动认证和开门。一个年轻、富有活力的团体，正期待着更有激情的你！",
+        "responsibilities_title": "岗位职责:",
+        "responsibilities_list":[
+          {
+            "content": "Android负责android平台下app应用软件开发；"
+          },
+          {
+            "content": "Android根据需求开发相应的手机应用软件，并对交付应用质量负责；"
+          },
+          {
+            "content": "Android系统设计及同后台系统交互接口设计 负责开发文档的编写。"
+          }
+        ],
+        "requirements_title": "任职要求:",
+        "requirements_list": [
+          {
+            "content": "Android熟练掌握java语言，熟悉android系统架构,熟悉网络编程；"
+          },
+          {
+            "content": "Android智能手机爱好者和使用者，爱玩手机；"
+          },
+          {
+            "content": "Android对终端产品的ui/ue有独到的见解与认识，追求良好的用户体验；"
+          },
+          {
+            "content": "Android对软件产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；"
+          },
+          {
+            "content": "Android至少参与或者独立进行过一次完整的基于网络的应用开发。"
+          }
+        ]
+      },
+      {
+        "menu_title": "Java开发工程师",
+        "show_img": "/images/recruit/image_zhaopin.jpg",
+        "title": "Java开发工程师岗位要求",
+        "introduce_title": "职位描述:",
+        "introduce": "Java上海XXXX科技是一群XXXX背景的小伙伴们联合创立的XXXXX公司，当前已获得国内知名天使和***互联网公司的投资。我们的目标是让生活中最常见的场景之一：开门，变得前所未有的容易和简单——让门锁/门禁感知可穿戴式设备/智能手机等，从而实现自动认证和开门。一个年轻、富有活力的团体，正期待着更有激情的你！",
+        "responsibilities_title": "岗位职责:",
+        "responsibilities_list":[
+          {
+            "content": "Java负责android平台下app应用软件开发；"
+          },
+          {
+            "content": "Java根据需求开发相应的手机应用软件，并对交付应用质量负责；"
+          },
+          {
+            "content": "Java系统设计及同后台系统交互接口设计 负责开发文档的编写。"
+          }
+        ],
+        "requirements_title": "任职要求:",
+        "requirements_list": [
+          {
+            "content": "Java熟练掌握java语言，熟悉android系统架构,熟悉网络编程；"
+          },
+          {
+            "content": "Java智能手机爱好者和使用者，爱玩手机；"
+          },
+          {
+            "content": "Java对终端产品的ui/ue有独到的见解与认识，追求良好的用户体验；"
+          },
+          {
+            "content": "Java对软件产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；"
+          },
+          {
+            "content": "Java至少参与或者独立进行过一次完整的基于网络的应用开发。"
+          }
+        ]
+      },
+      {
+        "menu_title": "Node.js开发工程师",
+        "show_img": "/images/about/about-us.jpg",
+        "title": "Node.js开发工程师岗位要求",
+        "introduce_title": "职位描述:",
+        "introduce": "Node上海XXXX科技是一群XXXX背景的小伙伴们联合创立的XXXXX公司，当前已获得国内知名天使和***互联网公司的投资。我们的目标是让生活中最常见的场景之一：开门，变得前所未有的容易和简单——让门锁/门禁感知可穿戴式设备/智能手机等，从而实现自动认证和开门。一个年轻、富有活力的团体，正期待着更有激情的你！",
+        "responsibilities_title": "岗位职责:",
+        "responsibilities_list":[
+          {
+            "content": "Node负责android平台下app应用软件开发；"
+          },
+          {
+            "content": "Node根据需求开发相应的手机应用软件，并对交付应用质量负责；"
+          },
+          {
+            "content": "Node系统设计及同后台系统交互接口设计 负责开发文档的编写。"
+          }
+        ],
+        "requirements_title": "任职要求:",
+        "requirements_list": [
+          {
+            "content": "Node熟练掌握java语言，熟悉android系统架构,熟悉网络编程；"
+          },
+          {
+            "content": "Node智能手机爱好者和使用者，爱玩手机；"
+          },
+          {
+            "content": "Node对终端产品的ui/ue有独到的见解与认识，追求良好的用户体验；"
+          },
+          {
+            "content": "Node对软件产品有强烈的责任心，具备良好的沟通能力和优秀的团队协作能力；"
+          },
+          {
+            "content": "Node至少参与或者独立进行过一次完整的基于网络的应用开发。"
+          }
+        ]
+      }
+    ]
+  }
+}

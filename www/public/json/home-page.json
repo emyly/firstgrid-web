@@ -1,0 +1,49 @@
+{
+  "modules":{
+    "home_logo_img": "/images/index/logo.png",
+    "about_us_info": {
+      "about_us_logo_img": "/images/index/compare-bg.jpg",
+      "title": "About us",
+      "about_us_column1": "上海首格网络科技有限公司",
+      "about_us_column2": "成立于2016年1月12日，",
+      "about_us_column3": "设有上海运营中心和杭州研发中心。",
+      "about_us_column4": "公司专注为医疗行业的垂直业务领域提供云服务。",
+      "about_us_column5": "服务内容主要涵盖行业内各级企业、",
+      "about_us_column6": "机构的业务数据托管，",
+      "about_us_column7": "以及基于数据服务基础上的行业内业务流程优化。",
+      "about_us_column8": "公司以医疗行业数据服务为依托，",
+      "about_us_column9": "力争为医疗领域经销商搭建更专业、更全面、",
+      "about_us_column10": "更优秀的云服务平台。"
+    },
+    "service_info": {
+      "title": "Service",
+      "links":[
+        {
+          "icon": "/images/index/cloud-platform.png",
+          "main_name": "医疗行业业务数据",
+          "sub_name": "云服务"
+        },
+        {
+          "icon": "/images/index/message.png",
+          "main_name": "消息提醒功能",
+          "sub_name": ""
+        },
+        {
+          "icon": "/images/index/pc.png",
+          "main_name": "PC 客户端",
+          "sub_name": ""
+        },
+        {
+          "icon": "/images/index/ios.png",
+          "main_name": "ios 客户端",
+          "sub_name": ""
+        },
+        {
+          "icon": "/images/index/Android.png",
+          "main_name": "Android 客户端",
+          "sub_name": ""
+        }
+      ]
+    }
+  }
+}
